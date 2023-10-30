@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Lucas Melo**
 
-<br> 🎮🕹I'm an junior tech and game artist.  
+<br> 🎮I'm an junior tech and game artist.  
 <br> 💻I'm currently on my bachelor's degree in Computer Science. 
 <br> My main interests is retro games🕹, art🎨 and Cinema🎥. 
 <br> I am focusing on learning Unity and Godot, shaders and javascript. 
