@@ -24,9 +24,7 @@
 
 ### GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasMeloSketches&theme=merko&show_icons=true)](https://github.com/LucasMeloSketches)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMeloSketches&layout=compact&theme=merko)](https://github.com/LucasMeloSketches)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LucasMeloSketches?cardType=level-alternate&theme=merko&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!---
 LucasMeloSketches/LucasMeloSketches is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
